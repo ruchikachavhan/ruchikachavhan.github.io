@@ -25,5 +25,14 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 <table>
 <col width="100px">
 <col width="630px">
-<tr><td><b>June 2021:</b></td><td>started my summer internship at <a href="https://research.google/locations/india/">Google Research India</a> where I will be working with <a href="http://talukdar.net/">Partha Talukdar</a> and <a href="https://sites.google.com/view/bidisha-samanta/">Bidisha Samanta</a></td></tr>
-<tr><td><b>May 2021 - July 2021:</b></td><td>talks at Google Research (<a href="https://docs.google.com/presentation/d/1kkl0fGbhEqWnUDkcSbFsDWIKnojlR_HFiCvhAhXW2Uk/edit?usp=sharing">slides</a>), <a href="https://sites.google.com/view/utnlpsummerseminar/home">University of Texas at Austin</a> (<a href="https://docs.google.com/presentation/d/1eAV7Sn8KtT095YabkYtdcRKbWOUwwfmHazbQCjCTqSM/edit?usp=sharing">slides</a>), <a href="https://nlg.isi.edu/nl-seminar/">University of Southern California</a> (<a href="https://docs.google.com/presentation/d/11kg2-h7asnAvnTe4PPUPup4H8W0XpCmqbcsx_AATKlI/edit?usp=sharing">slides</a>, <a href="https://youtu.be/bv95xMBZO_U">video</a>) on text generation and perils of its evaluation.</td></tr>
+<tr><td><b>June 2021:</b></td><td>Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
+<tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the [Visual AI Lab](https://cms.brookes.ac.uk/staff/FabioCuzzolin/), [Oxford Brookes University](https://www.brookes.ac.uk/). Slides can be found here.</td></tr>
+<tr><td><b>May 2021:</b></td><td>Graduated from the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/) with a bachelor's degree in Engineering Physics</td></tr>
+<tr><td><b>May 2021:</b></td><td>Finally submitted my bachelor's thesis, which can be found here and here</td></tr>
+<tr><td><b>Jan 2021:</b></td><td>Presented our paper ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer at the Winter Conference on Applications in Computer Vision (WACV) 2021 </td></tr>
+<tr><td><b>Jan 2021:</b></td><td>Presented our paper A Novel Actor Dual-Critic Model for Remote Sensing Image Captioning at the Internation Conference on Pattern Recognition (ICPR) 2021 </td></tr>
+<tr><td><b>Aug 2020:</b></td><td>Completed my remote internship at the Tokyo Laboratories, Sony Corporation working on Deep Learning Techniques for Image Compression</td></tr>
+<tr><td><b> Dec 2019:</b></td><td> Attended the National conference on Computer Vision Pattern Recognition, Image Processing and Graphics 2019, Hubli, Karnataka. It was a really great experience!</td></tr>
+<tr><td><b> June 2019:</b></td><td> I received an AP grade for the course "Machine Learning for Remote sensing - II", for being in top 1%.</td></tr>
+<tr><td><b> April 2019:</b></td><td> Gave a talk on the topic Generative Adversarial Networks on Image Style Transfer  under Reflections, Web and Coding Club, IIT Bombay</td></tr>
+<tr><td><b> May 2018:</b></td><td> Awarded the Technical Freshman of the Year in IIT Bombay! </td></tr>
