@@ -19,7 +19,7 @@ Apart from academics, I enjoy yoga, running, weight-lifting, or reading novels i
 
 Please have a look at my CV for more details on my academic front. I maintain a list of my publications and research  under the Research tab.  
 
-#### Updates
+### Updates
 
 <div style="height:250px;overflow:auto;">
 <table>
@@ -29,8 +29,8 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 <tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the [Visual AI Lab](https://cms.brookes.ac.uk/staff/FabioCuzzolin/), [Oxford Brookes University](https://www.brookes.ac.uk/). Slides can be found here.</td></tr>
 <tr><td><b>May 2021:</b></td><td>Graduated from the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/) with a bachelor's degree in Engineering Physics</td></tr>
 <tr><td><b>May 2021:</b></td><td>Finally submitted my bachelor's thesis, which can be found here and here</td></tr>
-<tr><td><b>Jan 2021:</b></td><td>Presented our paper ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer at the Winter Conference on Applications in Computer Vision (WACV) 2021 </td></tr>
-<tr><td><b>Jan 2021:</b></td><td>Presented our paper A Novel Actor Dual-Critic Model for Remote Sensing Image Captioning at the Internation Conference on Pattern Recognition (ICPR) 2021 </td></tr>
+<tr><td><b>Jan 2021:</b></td><td>Presented our paper [ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer](https://arxiv.org/pdf/2010.01999) at the Winter Conference on Applications in Computer Vision (WACV) 2021 </td></tr>
+<tr><td><b>Jan 2021:</b></td><td>Presented our paper [A Novel Actor Dual-Critic Model for Remote Sensing Image Captioning](https://openaccess.thecvf.com/content/WACV2021/papers/Chavhan_ADA-ATDT_An_Adversarial_Approach_for_Cross-Domain_and_Cross-Task_Knowledge_Transfer_WACV_2021_paper.pdf) at the Internation Conference on Pattern Recognition (ICPR) 2021 </td></tr>
 <tr><td><b>Aug 2020:</b></td><td>Completed my remote internship at the Tokyo Laboratories, Sony Corporation working on Deep Learning Techniques for Image Compression</td></tr>
 <tr><td><b> Dec 2019:</b></td><td> Attended the National conference on Computer Vision Pattern Recognition, Image Processing and Graphics 2019, Hubli, Karnataka. It was a really great experience!</td></tr>
 <tr><td><b> June 2019:</b></td><td> I received an AP grade for the course "Machine Learning for Remote sensing - II", for being in top 1%.</td></tr>
