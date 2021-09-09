@@ -26,7 +26,7 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 <col width="100px">
 <col width="630px">
 <tr><td><b>June 2021:</b></td><td>Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
-<tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin/"> Visual AI Lab </a>, <a href="https://www.brookes.ac.uk/"> Oxford Brookes University </a>. Slides can be found <a href="images/Visual_AI_Lab_Video_Captioning.pdf"> here</a>.</td></tr>
+<tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin/"> Visual AI Lab </a>, <a href="https://www.brookes.ac.uk/"> Oxford Brookes University </a>. Slides can be found <a href="files/Visual_AI_Lab_Video_Captioning.pdf"> here</a>.</td></tr>
 <tr><td><b>May 2021:</b></td><td>Graduated from the <a href="https://www.iitb.ac.in/"> Indian Institute of Technology, Bombay> </a> with a bachelor's degree in Engineering Physics</td></tr>
 <tr><td><b>May 2021:</b></td><td>Finally submitted my bachelor's thesis, which can be found here and here</td></tr>
 <tr><td><b>Jan 2021:</b></td><td>Presented our paper <a href="https://arxiv.org/pdf/2010.01999"> ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer </a> at the Winter Conference on Applications in Computer Vision (WACV) 2021 </td></tr>
