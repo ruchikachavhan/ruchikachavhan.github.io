@@ -26,7 +26,7 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 <col width="100px">
 <col width="630px">
 <tr><td><b>June 2021:</b></td><td>Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
-<tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the [Visual AI Lab](https://cms.brookes.ac.uk/staff/FabioCuzzolin/), [Oxford Brookes University](https://www.brookes.ac.uk/). Slides can be found here.</td></tr>
+<tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin/" Visual AI Lab </a>, [Oxford Brookes University](https://www.brookes.ac.uk/). Slides can be found here.</td></tr>
 <tr><td><b>May 2021:</b></td><td>Graduated from the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/) with a bachelor's degree in Engineering Physics</td></tr>
 <tr><td><b>May 2021:</b></td><td>Finally submitted my bachelor's thesis, which can be found here and here</td></tr>
 <tr><td><b>Jan 2021:</b></td><td>Presented our paper [ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer](https://arxiv.org/pdf/2010.01999) at the Winter Conference on Applications in Computer Vision (WACV) 2021 </td></tr>
