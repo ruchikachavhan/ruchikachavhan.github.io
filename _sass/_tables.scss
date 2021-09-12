@@ -6,7 +6,7 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: 8x;
+  font-size: 8px;
   border-collapse: collapse;
   border: 1px solid $light-gray;
 
@@ -31,7 +31,7 @@ td {
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
   border-right: 1px solid $light-gray;
-  font-size: 8x;
+  font-size: 8px;
 }
 
 tr, td, th {
