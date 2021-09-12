@@ -25,7 +25,7 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 <table rules=none style="width:100%" border="0" cellpadding="0" cellspacing="0">
 <col width="100px">
 <col width="636px">
-<tr><td><b>June 2021:</b></td><td>Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
+<tr><td style="border:0 none;"><b>June 2021:</b></td><td>Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
 <tr><td><b>May 2021:</b></td><td>Delivered a talk on Salient Developments in Video Captioning at the <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin/"> Visual AI Lab </a>, <a href="https://www.brookes.ac.uk/"> Oxford Brookes University </a>. Slides can be found <a href="/files/Visual_AI_Lab_Video_Captioning.pdf"> here</a>.</td></tr>
 <tr><td><b>May 2021:</b></td><td>I recieved multiple offers from the University of Bristol, John Hopkins University, University of Maryland, Durham Univeristy, Univeristy of Tubingen, Saarland University, University of Trento, and University of Edinburgh. I feel blessed to be accepted in these amazing programs!</td></tr>
 <tr><td><b>May 2021:</b></td><td>Graduated from the <a href="https://www.iitb.ac.in/"> Indian Institute of Technology, Bombay </a> with a bachelor's degree in Engineering Physics</td></tr>
