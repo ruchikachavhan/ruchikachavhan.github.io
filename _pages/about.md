@@ -22,7 +22,7 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 ### Updates
 
 <div style="height:550px;overflow:auto">
-<table rules=none>
+<table rules=none style="width:100%">
 <col width="100px">
 <col width="636px">
 <tr><td><b>June 2021:</b></td><td>Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
