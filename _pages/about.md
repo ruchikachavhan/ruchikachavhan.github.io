@@ -37,3 +37,4 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 <tr><td><b> June 2019:</b></td><td> I received an AP grade for the course "Machine Learning for Remote sensing - II", for being in top 1%.</td></tr>
 <tr><td><b> April 2019:</b></td><td> Gave a talk on the topic Generative Adversarial Networks on Image Style Transfer  under Reflections, Web and Coding Club, IIT Bombay</td></tr>
 <tr><td><b> May 2018:</b></td><td> Awarded the Technical Freshman of the Year in IIT Bombay! </td></tr>
+ 
