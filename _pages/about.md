@@ -21,7 +21,7 @@ Please have a look at my CV for more details on my academic front. I maintain a 
 
 ### Updates
 
-<div style="height:250px;overflow:auto;border:1px solid black">
+<div style="height:250px;overflow:auto;border:3px solid black">
 <table>
 <col width="100px">
 <col width="630px">
