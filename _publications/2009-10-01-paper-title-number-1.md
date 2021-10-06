@@ -11,6 +11,6 @@ We deal with the problem of high inter-class similarity in reference sentences d
 ![Selection_219](https://user-images.githubusercontent.com/32021556/136273971-ee188542-0b44-4695-b419-bed3769dbf83.png)
 
 
-Please find the [paper](https://arxiv.org/pdf/2010.01999), [poster](files/icpr_poster.pdf), [presentation](icpr_ppt.png), and [code](https://github.com/ruchikachavhan/ADC-image-captioning) here.
+Please find the [paper](https://arxiv.org/pdf/2010.01999), [poster](/files/icpr_poster.pdf), [presentation](files/icpr_ppt.pdf), and [code](https://github.com/ruchikachavhan/ADC-image-captioning) here.
 
 
