@@ -13,4 +13,11 @@ We deal with the problem of high inter-class similarity in reference sentences d
 
 Please find the [paper](https://arxiv.org/pdf/2010.01999), [poster](/files/icpr_poster.pdf), [presentation](/files/icpr_ppt.pdf), and [code](https://github.com/ruchikachavhan/ADC-image-captioning).
 
-
+If you find this work useful, please cite our paper
+```
+@inproceedings{chavhan2020novel,
+author    = {Ruchika Chavhan and Biplab Banerjee and Xiao Xiang Zhu and Subhasis Chaudhuri},
+title     = {A Novel Actor Dual-Critic Model for Remote Sensing Image Captioning},
+booktitle = {International Conference on Pattern Recognition (ICPR)},
+year      = {2020}
+}
