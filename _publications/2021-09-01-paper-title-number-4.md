@@ -2,6 +2,7 @@
 title: "FRIDA - Generative Feature Replay for Incremental Domain Adaptation"
 collection: publications
 permalink: /publication/2021-09-01-paper-title-number-4
+excerpt: '_Under review_'
 ---
 
 This manuscript is currently under review.
