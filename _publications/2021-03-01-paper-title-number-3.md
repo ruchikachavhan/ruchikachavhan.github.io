@@ -2,7 +2,7 @@
 title: "SketRet: Bi-Level Domain Adaptation for Zero-Shot Sketch-Based Image Retrieval"
 collection: publications
 permalink: /publication/2021-03-01-paper-title-number-1
-excerpt: 'Under review'
+excerpt: '_Under review_'
 ---
 
 This manuscript is currently under review.
