@@ -14,6 +14,7 @@ Please find the [paper](https://reader.elsevier.com/reader/sd/pii/S1077314222000
 
 
 If you find this work useful, please cite our paper
+```
 @article{RAKSHIT2022103367,
 title = {FRIDA — Generative feature replay for incremental domain adaptation},
 journal = {Computer Vision and Image Understanding},
