@@ -17,7 +17,7 @@ I completed my bachelor's degree in Engineering Physics at [Indian Institute of 
 Apart from academics, I enjoy yoga, running, weight-lifting, or reading novels in my leisure time.
 
 
-Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-rjULhWeiLQjRpCn/view?usp=sharing) for more details on my academic front. I maintain a list of my publications and research  under the Research tab.  
+Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-rjULhWeiLQjRpCn/view?usp=sharing) for more details on my academic front. I maintain a list of my publications and research  under the Publications tab.  
 
 
 ### Updates
