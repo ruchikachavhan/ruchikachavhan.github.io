@@ -22,5 +22,3 @@ year = {2022},
 author = {Sayan Rakshit and Anwesh Mohanty and Ruchika Chavhan and Biplab Banerjee and Gemma Roig and Subhasis Chaudhuri},
 }
 ```
-
-```
