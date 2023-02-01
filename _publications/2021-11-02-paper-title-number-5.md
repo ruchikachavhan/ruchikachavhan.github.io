@@ -1,7 +1,7 @@
 ---
 title: "Multi-Stage Semantic Graph Embeddings for Compositional Zero-Shot Learning"
 collection: publications
-permalink: /publication/2021-02-01-paper-title-number-1
+permalink: /publication/2021-11-02-paper-title-number-5
 excerpt: ''
 venue: 'Pattern Recognition Letters'
 ---
