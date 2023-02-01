@@ -42,5 +42,6 @@ Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-
 <tr><td style="border:0 none;"><b> June 2019:</b></td><td style="border:0 none;"> I received an AP grade for the course "Machine Learning for Remote sensing - II", for being in top 1%.</td></tr>
 <tr><td style="border:0 none;"><b> April 2019:</b></td><td style="border:0 none;"> Gave a talk on the topic Generative Adversarial Networks on Image Style Transfer  under Reflections, Web and Coding Club, IIT Bombay</td></tr>
 <tr><td style="border:0 none;"><b> May 2018:</b></td><td style="border:0 none;"> Awarded the Technical Freshman of the Year in IIT Bombay! </td></tr>
-  </table></div>
+
+</table></div>
   
