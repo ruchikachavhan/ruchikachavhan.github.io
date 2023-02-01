@@ -2,7 +2,7 @@
 title: "ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer"
 collection: publications
 permalink: /publication/2021-02-01-paper-title-number-1
-excerpt: 'Adversarial domain adaptation for cross-task Knowledge transfer'
+excerpt: ''
 venue: 'Winter Conference on Computer Vision Applications (WACV)'
 ---
 We deal with the problem of cross-task and cross-domain knowledge transfer in the realm of scene understanding for autonomous vehicles. We consider the scenario where supervision is available for a pair of tasks in a source domain while it is available for only one of the tasks in the target domain. We develop a novel framework called ADA-AT/DT based on the adversarial training strategy to ensure that the domain-gaps are minimized for the common cross-domain supervised task and perform experiments on a transformation mapping similar to U-Net to ensure maximum exploitation of features for task transfer.
