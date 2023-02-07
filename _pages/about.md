@@ -28,7 +28,6 @@ Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-
 <col width="636px">
 <tr><td style="border:0 none;"><b>Jan 2023:</b></td><td style="border:0 none;">Paper on amortising invariances for contrastive learning accepted in ICLR 2023!</td></tr>
 <tr><td style="border:0 none;"><b>May 2022:</b></td><td style="border:0 none;">HyperInvariances - accepted in ICML Workshop on Spurious Correlations, Invariance, and Stability!</td></tr>
-<tr><td style="border:0 none;"><b>Nov 2021:</b></td><td style="border:0 none;">Paper on <a href="https://www.researchgate.net/profile/Hitesh_Kandala/publication/362064793_Multi-Stage_Semantic_Graph_Embeddings_for_Compositional_Zero-Shot_Learning/links/6320eb3b70cc936cd3061232/Multi-Stage-Semantic-Graph-Embeddings-for-Compositional-Zero-Shot-Learning.pdf"> Zero-shot compositional learning </a> accepted in Pattern Recognition Letters </td></tr>
 <tr><td style="border:0 none;"><b>Nov 2021:</b></td><td style="border:0 none;">Paper on <a href="https://www.sciencedirect.com/science/article/pii/S0925231222011961"> Zero-shot SBIR </a> accepted in Neurocomputing</td></tr>
 <tr><td style="border:0 none;"><b>June 2021:</b></td><td style="border:0 none;">Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
 <tr><td style="border:0 none;"><b>May 2021:</b></td><td style="border:0 none;">Delivered a talk on Salient Developments in Video Captioning at the <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin/"> Visual AI Lab </a>, <a href="https://www.brookes.ac.uk/"> Oxford Brookes University </a>. Slides can be found <a href="/files/Visual_AI_Lab_Video_Captioning.pdf"> here</a>.</td></tr>
@@ -40,6 +39,6 @@ Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-
 <tr><td style="border:0 none;"><b>Aug 2020:</b></td><td style="border:0 none;">Completed my remote internship at the Tokyo Laboratories, Sony Corporation working on Deep Learning Techniques for Image Compression. Please have a look at my final <a href="/files/sony_report.pdf"> presentation </a>.</td></tr>
 <tr><td style="border:0 none;"><b> Dec 2019:</b></td><td style="border:0 none;"> Attended the National conference on Computer Vision Pattern Recognition, Image Processing and Graphics 2019, Hubli, Karnataka. It was a really great experience!</td></tr>
 <tr><td style="border:0 none;"><b> June 2019:</b></td><td style="border:0 none;"> I received an AP grade for the course "Machine Learning for Remote sensing - II", for being in top 1%.</td></tr>
-<tr><td style="border:0 none;"><b> April 2019:</b></td><td style="border:0 none;"> Gave a talk on the topic Generative Adversarial Networks on Image Style Transfer  under Reflections, Web and Coding Club, IIT Bombay</td></tr>
+<tr><td style="border:0 none;"><b> April 2019:</b></td><td style="border:0 none;"> Gave a talk on the topic Generative Adversarial Networks on Image Style Transfer  under Reflections, Web and Coding Club, IIT Bombay </td></tr>
 <tr><td style="border:0 none;"><b> May 2018:</b></td><td style="border:0 none;"> Awarded the Technical Freshman of the Year in IIT Bombay! </td></tr>
 </table></div>
