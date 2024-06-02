@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the [School of Informatics](https://www.ed.ac.uk/informatics), [University of Edinburgh](https://www.ed.ac.uk/), where I am supervised by [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/) and [Dr. Da Li](https://scholar.google.com/citations?user=RPvaE3oAAAAJ&hl=en). My research interests are mainly centered around computer vision and machine learning spanning multi-task learning, meta learning, self-supervised learning, and domain adaptation.
+I am a third-year PhD student at the [School of Informatics](https://www.ed.ac.uk/informatics), [University of Edinburgh](https://www.ed.ac.uk/), where I am supervised by [Prof. Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/) and [Dr. Da Li](https://scholar.google.com/citations?user=RPvaE3oAAAAJ&hl=en). My research interests revolve around Generative AI, Diffusion Models, Multi-modal Learning, Foundation models, Computer Vision, Natural Language Processing, Meta-Learning, and Representation Learning.
 
 
-I completed my bachelor's degree in Engineering Physics at [Indian Institute of Technology](https://www.iitb.ac.in) where I was advised by Prof. [Biplab Banerjee](https://biplab-banerjee.github.io/) and Prof. [Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/main/main.html). I was also a summer intern at Sony Corporation, Tokyo where I worked on real-time image compression using deep learning techniques. 
+I completed my bachelor's degree in Engineering Physics at [Indian Institute of Technology](https://www.iitb.ac.in) where I was advised by Prof. [Biplab Banerjee](https://biplab-banerjee.github.io/) and Prof. [Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/main/main.html). During my bachelor's degree, I worked as a summer intern at Sony Corporation, Tokyo where I worked on real-time image compression using deep learning techniques. 
 
 
-Apart from academics, I enjoy yoga, running, weight-lifting, or reading novels in my leisure time.
+Besides academics, I enjoy running, weight-lifting, yoga, and reading or listening to audiobooks in my leisure time.
 
 
-Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-rjULhWeiLQjRpCn/view?usp=sharing) for more details on my academic front. I maintain a list of my publications and research  under the Publications tab.  
+Please have a look at my [CV](https://drive.google.com/file/d/1rrbqpPxs_bJahXTEtBdO8yHXW01QrQMV/view?usp=sharing) for more details on my academic front. I maintain a list of my publications and research  under the Publications tab.  
 
 
 ### Updates
@@ -26,13 +26,18 @@ Please have a look at my [CV](https://drive.google.com/file/d/1O8qUcbYJ5tNEUPUO-
 <table rules=none style="border:0 none;">
 <col width="100px">
 <col width="636px">
-<tr><td style="border:0 none;"><b>Jan 2023:</b></td><td style="border:0 none;">Paper on amortising invariances for contrastive learning accepted in ICLR 2023!</td></tr>
+  <tr><td style="border:0 none;"><b>March 2023:</b></td><td style="border:0 none;">Paper on adversarial attacks on Vision-Language Models accepted to ICML 2023</td></tr>
+  <tr><td style="border:0 none;"><b>March 2023:</b></td><td style="border:0 none;">Quality Diversity for Visual Pre-Training accepted in ICCV 2023</td></tr>
+  <tr><td style="border:0 none;"><b>March 2023:</b></td><td style="border:0 none;">I got selected to attend the Machine Learning Summer School on Applications in Science in Krakow, Poland with a full scholarship</td></tr>
+  <tr><td style="border:0 none;"><b>March 2023:</b></td><td style="border:0 none;">Meta-Omnium accepted in CVPR 2023!</td></tr>
+<tr><td style="border:0 none;"><b>Jan 2023:</b></td><td style="border:0 none;">Paper on Amortising Invariances for contrastive learning accepted in ICLR 2023!</td></tr>
+  <tr><td style="border:0 none;"><b>March 2023:</b></td><td style="border:0 none;">Attended the Oxford Machine Learning Summer School, 2022</td></tr>
 <tr><td style="border:0 none;"><b>May 2022:</b></td><td style="border:0 none;">HyperInvariances - accepted in ICML Workshop on Spurious Correlations, Invariance, and Stability!</td></tr>
 <tr><td style="border:0 none;"><b>Nov 2021:</b></td><td style="border:0 none;">Paper on <a href="https://www.researchgate.net/profile/Hitesh_Kandala/publication/362064793_Multi-Stage_Semantic_Graph_Embeddings_for_Compositional_Zero-Shot_Learning/links/6320eb3b70cc936cd3061232/Multi-Stage-Semantic-Graph-Embeddings-for-Compositional-Zero-Shot-Learning.pdf"> Zero-shot compositional learning </a> accepted in Pattern Recognition Letters </td></tr>
 <tr><td style="border:0 none;"><b>Nov 2021:</b></td><td style="border:0 none;">Paper on <a href="https://www.sciencedirect.com/science/article/pii/S0925231222011961"> Zero-shot SBIR </a> accepted in Neurocomputing</td></tr>
 <tr><td style="border:0 none;"><b>June 2021:</b></td><td style="border:0 none;">Incoming PhD student at the University of Edinburgh. So excited to explore Scotland!</td></tr>
 <tr><td style="border:0 none;"><b>May 2021:</b></td><td style="border:0 none;">Delivered a talk on Salient Developments in Video Captioning at the <a href="https://cms.brookes.ac.uk/staff/FabioCuzzolin/"> Visual AI Lab </a>, <a href="https://www.brookes.ac.uk/"> Oxford Brookes University </a>. Slides can be found <a href="/files/Visual_AI_Lab_Video_Captioning.pdf"> here</a>.</td></tr>
-<tr><td style="border:0 none;"><b>May 2021:</b></td><td style="border:0 none;">I recieved multiple offers from the University of Bristol, John Hopkins University, University of Maryland, Durham Univeristy, Univeristy of Tubingen, Saarland University, University of Trento, and University of Edinburgh. I feel blessed to be accepted in these amazing programs!</td></tr>
+<tr><td style="border:0 none;"><b>May 2021:</b></td><td style="border:0 none;">I received multiple offers from the University of Bristol, John Hopkins University, University of Maryland, Durham Univeristy, University of Tubingen, Saarland University, University of Trento, and University of Edinburgh. I feel blessed to be accepted in these amazing programs!</td></tr>
 <tr><td style="border:0 none;"><b>May 2021:</b></td><td style="border:0 none;">Graduated from the <a href="https://www.iitb.ac.in/"> Indian Institute of Technology, Bombay </a> with a bachelor's degree in Engineering Physics</td></tr>
 <tr><td style="border:0 none;"><b>May 2021:</b></td><td style="border:0 none;">Finally submitted my bachelor's thesis on Zero-shot Sketch-based Image Retrieval and Multi-modal learning.
 <tr><td style="border:0 none;"><b>Jan 2021:</b></td><td style="border:0 none;">Presented our paper <a href="https://arxiv.org/pdf/2010.01999"> ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer </a> at the Winter Conference on Applications in Computer Vision (WACV) 2021 </td></tr>
