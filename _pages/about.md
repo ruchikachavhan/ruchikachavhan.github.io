@@ -17,8 +17,9 @@ I completed my bachelor's degree in Engineering Physics at [Indian Institute of 
 Besides academics, I enjoy running, weight-lifting, yoga, and reading or listening to audiobooks in my leisure time.
 
 
-Please have a look at my [CV](https://drive.google.com/file/d/1rrbqpPxs_bJahXTEtBdO8yHXW01QrQMV/view?usp=sharing) for more details on my academic front. I maintain a list of my publications and research  under the Publications tab.  
+For more details on my research, please have a look at my [CV](https://drive.google.com/file/d/1rrbqpPxs_bJahXTEtBdO8yHXW01QrQMV/view?usp=sharing) and <a href="https://scholar.google.com/citations?user=vWDTlWoAAAAJ&hl=en">Google Scholar profile.</a>
 
+I am looking for **Postdoc/Research Scientist** positions. Feel free to drop me an email for research discussions, collaborations, or just for a little chat!
 
 ### Updates
 
