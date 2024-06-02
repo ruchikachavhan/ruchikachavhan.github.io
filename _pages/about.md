@@ -13,10 +13,6 @@ I am a third-year PhD student at the [School of Informatics](https://www.ed.ac.u
 
 I completed my bachelor's degree in Engineering Physics at [Indian Institute of Technology](https://www.iitb.ac.in) where I was advised by Prof. [Biplab Banerjee](https://biplab-banerjee.github.io/) and Prof. [Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/main/main.html). During my bachelor's degree, I was also a summer intern at Sony Corporation, Tokyo where I worked on real-time image compression using deep learning techniques. 
 
-
-Besides academics, I enjoy running, weight-lifting, yoga, and reading or listening to audiobooks in my leisure time.
-
-
 For more details on my research, please have a look at my [CV](https://drive.google.com/file/d/1rrbqpPxs_bJahXTEtBdO8yHXW01QrQMV/view?usp=sharing) and <a href="https://scholar.google.com/citations?user=vWDTlWoAAAAJ&hl=en">Google Scholar profile.</a>
 
 I am looking for **Postdoc/Research Scientist** positions. Feel free to drop me an email for research discussions, collaborations, or just for a little chat!
